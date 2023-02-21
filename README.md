@@ -1,3 +1,4 @@
-# UsabilityHub-Clone
-Clone a usability site. It is fully responsive clone project. Using HTML, CSS, JS.
+# Live Link
+https://manish079.github.io/UsabilityHub-Clone/
+
 
